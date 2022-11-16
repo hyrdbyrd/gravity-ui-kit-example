@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/gravity-ui-kit-example/static/css/main.f8d30ee9.css",
+    "main.css": "/gravity-ui-kit-example/static/css/main.9e5b2ecd.css",
     "main.js": "/gravity-ui-kit-example/static/js/main.9bc9ea0d.js",
     "index.html": "/gravity-ui-kit-example/index.html",
-    "main.f8d30ee9.css.map": "/gravity-ui-kit-example/static/css/main.f8d30ee9.css.map",
+    "main.9e5b2ecd.css.map": "/gravity-ui-kit-example/static/css/main.9e5b2ecd.css.map",
     "main.9bc9ea0d.js.map": "/gravity-ui-kit-example/static/js/main.9bc9ea0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8d30ee9.css",
+    "static/css/main.9e5b2ecd.css",
     "static/js/main.9bc9ea0d.js"
   ]
 }
